@@ -93,11 +93,6 @@
 <img src='https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11'>
 </p>
 
-
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=tynab&data=followers,repositories,stars,commits'>
-</p>
-
 <div>
 <a href='https://www.hackerrank.com/certificates/21f4d932e858'>
     <img src='https://github.com/My-Project512/Tynab/blob/main/certificate/SE.png' width='279' title='Software Engineer'>
