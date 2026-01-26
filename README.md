@@ -36,7 +36,7 @@
     <img src='pic/MySQL.png' width='44' title='MySQL'>
     <img src='pic/MSSS.png' width='44' title='Microsoft SQL Server'>
     <img src='pic/SqLite.png' width='44' title='SQLite'>
-    <img src='pic/MongoDb.png' width='44' title='MongoDB'>
+    <img src='https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png' width='44' title='MongoDB'>
     <img src='pic/Redis.png' width='44' title='Redis'>
     <img src='pic/Bootstrap.png' width='44' title='Bootstrap'>
     <img src='pic/Thymeleaf.png' width='44' title='Thymeleaf'>
