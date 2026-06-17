@@ -19,7 +19,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='44' title='HTML'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width='44' title='CSS'>
 <img src='https://cdn-icons-png.flaticon.com/128/5968/5968292.png' width='44' title='JavaScript'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png' width='44' title='Visual Basic'>
+<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png' width='44' title='Vs Code'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width='44' title='C'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='44' title='C++'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='44' title='Java'>
