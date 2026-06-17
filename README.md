@@ -4,7 +4,7 @@
 <h3>💼 Software Developer at <a href="https://cloudcoder512.github.io/CornFlax/">cludeCoder</a></h3>
 
 ## :envelope: Let's talk
-[![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://cloudcoder512.github.io/CornFlax/)
+[![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://windguard-it-solutions.onrender.com)
 
 [![Gmail Badge](https://img.shields.io/badge/-adarshverma912098gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adarshverma912098@gmail.com)](mailto:adarshverma912098@gmail.com)
 
@@ -16,74 +16,30 @@
 
 ## :computer: Currently playing with 
 <p align="left">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='44' title='HTML'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='44' title='HTML'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width='44' title='CSS'>
 <img src='https://cdn-icons-png.flaticon.com/128/5968/5968292.png' width='44' title='JavaScript'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg' width='44' title='jQuery'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png' width='44' title='Visual Basic'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg' width='44' title='Swift'>
-<img src='https://cdn-icons-png.flaticon.com/512/5968/5968922.png' width='44' title='Objective-C'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width='44' title='C'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='44' title='C++'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg' width='44' title='C#'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='44' title='Java'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='44' title='sig'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg' width='44' title='Jupyter Notebook'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg' width='44' title='Lua'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' width='44' title='PostgreSQL'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='44' title='MySQL'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg' width='44' title='Microsoft SQL Server'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' width='44' title='SQLite'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg' width='44' title='Microsoft SQL Server'
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width='44' title='MongoDB'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg' width='44' title='Redis'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' width='44' title='Bootstrap'>
-<img src='https://www.thymeleaf.org/images/thymeleaf.png' width='44' title='Thymeleaf'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg' width='44' title='Angular'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='44' title='React'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='44' title='Node.js'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg' width='44' title='Android SDK'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' width='44' title='Spring'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width='44' title='NumPy'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg' width='44' title='Matplotlib'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg' width='44' title='Pandas'>
-<img src='https://seaborn.pydata.org/_images/logo-mark-lightbg.svg' width='44' title='seaborn'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png' width='44' title='scikit-learn'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg' width='44' title='TensorFlow'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg' width='44' title='Keras'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg' width='44' title='PyTorch'>
 <img src='https://www.pygame.org/images/logo_lofi.png' width='44' title='Pygame'>
-<img src='https://n8n.io/favicon-32x32.png' width='44' title='n8n'>
-<img src='https://argo-cd.readthedocs.io/en/stable/assets/logo.png' width='44' title='Argo CD'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg' width='44' title='Jenkins'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg' width='44' title='Terraform'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg' width='44' title='Ansible'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width='44' title='Docker Swarm'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' width='44' title='Kubernetes'>
 <img src='https://openwebui.com/favicon.png' width='44' title='Open WebUI'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg' width='44' title='Prometheus'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg' width='44' title='Grafana'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg' width='44' title='Kibana'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg' width='44' title='NGINX'>
-<img src='https://nginxproxymanager.com/icon.png' width='44' title='NGINX Proxy Manager'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg' width='44' title='RabbitMQ'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg' width='44' title='Apache Maven'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg' width='44' title='Apache Tomcat'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg' width='44' title='Apache Kafka'>
-<img src='https://pulsar.apache.org/img/pulsar.svg' width='44' title='Apache Pulsar'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='44' title='Git'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' width='44' title='GitLab'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='44' title='GitHub'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg' width='44' title='Bitbucket'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg' width='44' title='Jira Software'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg' width='44' title='Confluence'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width='44' title='Figma'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' width='44' title='Google Map Platform'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg' width='44' title='Azure Artifacts'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg' width='44' title='Heroku'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg' width='44' title='Cloudflare'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' width='44' title='npm'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg' width='44' title='Unity'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg' width='44' title='Godot'>
 </p>
 <br>
 
